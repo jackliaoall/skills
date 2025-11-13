@@ -39,6 +39,15 @@
         "./theme-factory",
         "./webapp-testing"
       ]
+    },
+    {
+      "name": "infopic",
+      "description": "HTML infographic creation and screenshot",
+      "source": "/",
+      "strict": false,
+      "skills": [
+        "../infopic-skill"
+      ]
     }
   ]
 }
