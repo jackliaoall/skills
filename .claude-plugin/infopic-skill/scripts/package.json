@@ -1,0 +1,24 @@
+{
+  "name": "infopic-skill-scripts",
+  "version": "1.0.0",
+  "description": "Scripts for infographic generation skill",
+  "main": "screenshot.js",
+  "scripts": {
+    "screenshot": "node screenshot.js",
+    "install-playwright": "pnpm exec playwright install chromium"
+  },
+  "keywords": [
+    "infographic",
+    "screenshot",
+    "playwright",
+    "html-to-image"
+  ],
+  "author": "",
+  "license": "MIT",
+  "dependencies": {
+    "playwright": "^1.48.0"
+  },
+  "engines": {
+    "node": ">=16.0.0"
+  }
+}

@@ -1,0 +1,26 @@
+# Dependencies
+node_modules/
+scripts/node_modules/
+
+# pnpm
+pnpm-lock.yaml
+.pnpm-debug.log
+
+# Playwright
+scripts/.cache/
+scripts/test-results/
+
+# Output files (optional - uncomment if you don't want to commit generated infographics)
+# 生成结果信息图/*.html
+# 生成结果信息图/*.png
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Editor files
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
