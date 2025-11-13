@@ -43,10 +43,10 @@
     {
       "name": "infopic",
       "description": "HTML infographic creation and screenshot",
-      "source": "/",
+      "source": "./",
       "strict": false,
       "skills": [
-        "../infopic-skill"
+        "./infopic-skill"
       ]
     }
   ]
